@@ -7,4 +7,15 @@
     *Best Case
     *Average Case 
     *Worst Case 
-    
+
+#Types of time Complexities 
+    *Constant time : O(1)
+    *Log-arthmic time : O(log n)
+    *Linear time : O(n)
+    *Quaddratic time : O(n^2)
+    *Exponential time : O(2^n)
+
+
+#SPACE COMPLEXITY:
+        Space Complexity refers to the amount of memory an algorithm uses as a function of the input size.
+        Its a measure of how much memory an algorithm requries to execute and solve problem.
