@@ -1,0 +1,4 @@
+LCM(a,b)==(a*b)/GCD(a,b)
+
+ncr=(n!)/(r!)*(n-r)! 
+

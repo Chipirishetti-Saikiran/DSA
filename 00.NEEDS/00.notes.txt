@@ -1,0 +1,10 @@
+#TIME COMPLEXITY : 
+    Describes how the execution time of algorithm grows as the input size increases. 
+    It essentially quantifies the number of operations an algorithm performs as a function of the input data size.
+
+
+#ASYMPTOTIC NOTATIONS
+    *Best Case
+    *Average Case 
+    *Worst Case 
+    
